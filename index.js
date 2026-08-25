@@ -44,6 +44,7 @@ const targetKeywords = [
 '谷間',
 '月音',
 'こな',
+'ちんいじ',
 ];
 const randomReplies = [ 
   '黙れ',
